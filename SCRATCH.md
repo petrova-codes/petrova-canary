@@ -1,4 +1,3 @@
 # Probe scratch
 
-Write-verb probes may create, modify, and delete files under this directory.
-Nothing here is meaningful.
+G-P3-1 write probe. Nothing here is meaningful.
